@@ -4,7 +4,7 @@
 #
 Name     : perl-Mail-Sendmail
 Version  : 0.80
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/N/NE/NEILB/Mail-Sendmail-0.80.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/N/NE/NEILB/Mail-Sendmail-0.80.tar.gz
 Summary  : 'Simple platform independent mailer'
@@ -98,4 +98,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/Mail/Sendmail.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Mail/Sendmail.pm
