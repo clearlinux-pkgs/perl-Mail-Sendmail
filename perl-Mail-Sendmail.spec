@@ -4,7 +4,7 @@
 #
 Name     : perl-Mail-Sendmail
 Version  : 0.80
-Release  : 9
+Release  : 10
 URL      : https://cpan.metacpan.org/authors/id/N/NE/NEILB/Mail-Sendmail-0.80.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/N/NE/NEILB/Mail-Sendmail-0.80.tar.gz
 Summary  : 'Simple platform independent mailer'
